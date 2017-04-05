@@ -9,7 +9,7 @@ He is 50 years old and works as a mechanic.
 Visit with Dr. Ramirez on 10/21/2077.
 
 CliDEID will produce the following output (stand-off):
-
+```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <NGRID_deId>
 <TEXT><![CDATA[Mr. Smith was admitted to the ABCD hospital.
@@ -25,7 +25,7 @@ Visit with Dr. Ramirez on 10/21/2077 .
 <NAME id="P5" start="4" end="9" text="Smith" TYPE="PATIENT" comment="" />
 </TAGS>
 </NGRID_deId>
-
+```
 More details on the architecture and the performance of the tool can be found in the paper below. Please cite this publication if you use CliDEID:
 Dehghan A., Kovačević A., Karystianis G, Keane JA., & Nenadic, G. (2017). Learning to identify protected health information by integrating knowledge- and data-driven algorithms: a case study on psychiatric evaluation notes. Journal of Biomedical Informatics. Submitted.
 
