@@ -1,0 +1,6 @@
+CliDEID is copyrighted free software by Aleksandar Kovacevic <kocha78@uns.ac.rs,http://informatika.ftn.uns.ac.rs/AleksandarKovacevic/>, and is released under any of the LGPL (see the file LGPL) or the BSD License (see the file BSD).
+
+Exclusions:
+
+  1. For the CRF++ binaries see the copyright statement included in the crf++ directory.
+  2. For cTAKES see the copyright statement included in the cTAKES directory.
